@@ -45,7 +45,7 @@ Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), and [App
 
 The text is organized into roughly seven parts.
 
-1. Prerequisites
+1. Prerequisites 
 2. (Supervised Learning) Regression
 3. (Supervised Learning) Classification
 4. Unsupervised Learning
